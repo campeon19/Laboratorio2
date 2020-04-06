@@ -1,0 +1,2 @@
+rootProject.name='Indice de Masa Corporal'
+include ':app'
